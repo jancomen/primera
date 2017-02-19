@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Gestures</name>
+    <name>Gestos</name>
     <description>
-        Explorando las gestures.
+        Primera app.
     </description>
-    <author email="hola@devscola.org" href="http://devscola.org">
-        devscola
+    <author email="hola@dc5app.org" href="http://c5app.org">
+        c5App
     </author>
     <content src="index.html" />
     <access origin="*" />
