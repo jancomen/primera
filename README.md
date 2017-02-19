@@ -1,2 +1,10 @@
-# primera
-app
+# Gestures
+
+## Usage
+
+### PhoneGap CLI
+
+    $ phonegap serve
+
+
+
